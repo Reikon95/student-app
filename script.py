@@ -12,3 +12,12 @@ def grade_converter(gpa):
   return grade  
   
 print(grade_converter(0.6))
+
+A* = 40
+A = 37
+B = 30
+C = 20
+D = 10
+E = 0
+
+# 4.0 > 120
