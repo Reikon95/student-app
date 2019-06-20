@@ -13,7 +13,7 @@ def grade_converter(gpa):
   
 print(grade_converter(0.6))
 
-A* = 40
+Astar = 40
 A = 37
 B = 30
 C = 20
